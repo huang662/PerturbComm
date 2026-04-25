@@ -1,0 +1,2 @@
+comparison,observed_mean_difference,exact_signflip_p,n_pairs
+gnn_minus_knn_mean_val_pearson,0.05566176986526048,0.001708567244325116,12

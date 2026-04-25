@@ -1,0 +1,8 @@
+cell_type,n_cells,n_train,n_test,auroc,auprc,accuracy,baseline_stim_fraction,model_path
+FCGR3A+ Monocytes,1592,1273,319,0.9996440436639772,0.999699424661656,0.987460815047022,0.5391849529780565,C:\Users\Admin\Documents\Codex\2026-04-25-a-b-ai-1-perturb-seq\gse96583_receiver_outputs\models\logreg_FCGR3Aplus_Monocytes.pkl
+Dendritic cells,432,345,87,0.9994697773064687,0.9995374653098982,0.9770114942528736,0.5287356321839081,C:\Users\Admin\Documents\Codex\2026-04-25-a-b-ai-1-perturb-seq\gse96583_receiver_outputs\models\logreg_Dendritic_cells.pkl
+CD14+ Monocytes,5355,4284,1071,0.9993017198639751,0.9990966434239736,0.9953314659197012,0.4827264239028945,C:\Users\Admin\Documents\Codex\2026-04-25-a-b-ai-1-perturb-seq\gse96583_receiver_outputs\models\logreg_CD14plus_Monocytes.pkl
+B cells,2571,2056,515,0.997887940138189,0.9985075354687799,0.996116504854369,0.4912621359223301,C:\Users\Admin\Documents\Codex\2026-04-25-a-b-ai-1-perturb-seq\gse96583_receiver_outputs\models\logreg_B_cells.pkl
+CD4 T cells,10373,8298,2075,0.9971543083938148,0.9974201770351946,0.9778313253012049,0.503132530120482,C:\Users\Admin\Documents\Codex\2026-04-25-a-b-ai-1-perturb-seq\gse96583_receiver_outputs\models\logreg_CD4_T_cells.pkl
+NK cells,1991,1592,399,0.9905130540376442,0.9921846822647851,0.9649122807017544,0.5413533834586466,C:\Users\Admin\Documents\Codex\2026-04-25-a-b-ai-1-perturb-seq\gse96583_receiver_outputs\models\logreg_NK_cells.pkl
+CD8 T cells,2040,1632,408,0.9820601851851851,0.9839347955577262,0.9509803921568627,0.47058823529411764,C:\Users\Admin\Documents\Codex\2026-04-25-a-b-ai-1-perturb-seq\gse96583_receiver_outputs\models\logreg_CD8_T_cells.pkl

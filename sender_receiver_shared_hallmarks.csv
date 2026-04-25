@@ -1,0 +1,9 @@
+sender_set,receiver_set,n_sender_hallmarks,n_receiver_hallmarks,n_shared_hallmarks,shared_hallmarks
+ifn_hybrid_sender,ifn_receiver,5,12,1,TNF-alpha Signaling via NF-kB
+ifn_hybrid_sender,lps_receiver,5,7,1,TNF-alpha Signaling via NF-kB
+lps_hybrid_sender,ifn_receiver,5,12,1,TNF-alpha Signaling via NF-kB
+lps_hybrid_sender,lps_receiver,5,7,1,TNF-alpha Signaling via NF-kB
+ifn_contrastive_sender,ifn_receiver,1,12,1,TNF-alpha Signaling via NF-kB
+ifn_contrastive_sender,lps_receiver,1,7,1,TNF-alpha Signaling via NF-kB
+lps_contrastive_sender,ifn_receiver,8,12,2,Apoptosis;TNF-alpha Signaling via NF-kB
+lps_contrastive_sender,lps_receiver,8,7,1,TNF-alpha Signaling via NF-kB

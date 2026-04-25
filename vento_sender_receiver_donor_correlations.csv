@@ -1,0 +1,6 @@
+sender_metric,receiver_metric,spearman_rho,pvalue,n_donors
+sender_score_all,receiver_ifn_score,-0.21626199887069456,0.33371741823425616,22
+sender_score_comm,receiver_ifn_score,-0.0378317334839074,0.8672536652027346,22
+sender_score_tgfbr2_axis,receiver_ifn_score,-0.4568040654997177,0.032582980913736646,22
+sender_score_all,receiver_lps_score,-0.02089215132693394,0.9264735945676482,22
+sender_score_comm,receiver_lps_score,0.07961603613777528,0.7246926801743927,22

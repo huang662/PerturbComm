@@ -1,0 +1,16 @@
+label,top_positive,top_total,universe_positive,universe_total,odds_ratio,fisher_pvalue
+ifn_hybrid_communication_genes,2,27,8,73,0.5333333333333333,0.8730781746294574
+ifn_hybrid_strict_ligands,0,27,0,73,,1.0
+ifn_hybrid_strict_receptors,1,27,4,73,0.5512820512820513,0.8500730409856398
+lps_hybrid_communication_genes,2,27,8,73,0.5333333333333333,0.8730781746294574
+lps_hybrid_strict_ligands,0,27,0,73,,1.0
+lps_hybrid_strict_receptors,1,27,4,73,0.5512820512820513,0.8500730409856398
+ifn_contrastive_communication_genes,0,20,8,73,0.0,1.0
+ifn_contrastive_strict_ligands,0,20,0,73,,1.0
+ifn_contrastive_strict_receptors,0,20,4,73,0.0,1.0
+lps_contrastive_communication_genes,3,25,8,73,1.1727272727272726,0.5611163462911521
+lps_contrastive_strict_ligands,0,25,0,73,,1.0
+lps_contrastive_strict_receptors,2,25,4,73,2.0,0.42395928079894885
+comm_hybrid_communication_genes,7,20,8,73,28.0,0.0003150193640919637
+comm_hybrid_strict_ligands,0,20,0,73,,1.0
+comm_hybrid_strict_receptors,4,20,4,73,inf,0.004451365728618285
